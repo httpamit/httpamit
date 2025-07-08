@@ -16,6 +16,19 @@
 
 ---
 
+## 🧠 Areas of Expertise
+
+- ⚙️ Frontend Architecture & Scalable Codebases
+- 🧩 Micro Frontends (Module Federation)
+- 🧑‍🎨 Design Systems & Component Libraries (Storybook, TailwindCSS)
+- ⚡ Performance Optimization (Lighthouse, Core Web Vitals)
+- 🧪 Testing Strategies (Jest, React Testing Library, Cypress)
+- 🌐 SSR, ISR, and SEO with Next.js
+- 🧵 Monorepo Management
+- 🚀 CI/CD for Frontend (GitHub Actions, Vercel, Netlify)
+
+---
+
 ## 🧰 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
@@ -37,11 +50,21 @@
 
 ---
 
+## 🧭 Currently Exploring
+
+- 🔬 React Server Actions & Server Components (React 19)
+- 🪝 Advanced Custom Hooks with TypeScript Generics
+- 🌍 Edge Functions & Caching Strategies in Next.js
+- 📦 Modular Monorepos using Turborepo
+- 🧪 Visual Regression Testing (e.g., Playwright + Storybook)
+
+---
+
 ## 📈 2025 Goals
 
 - 🧪 Improve test coverage using **Jest**, **React Testing Library**, and **Cypress**  
 - 🌐 Build personal branding on **LinkedIn** through React architecture tips  
-- 📚 Deepen knowledge in **React Server Components**, **Module Federation**, and **Micro Frontends**
+- 📚 Deepen knowledge in **Module Federation**, **Micro Frontends**, and DevOps for frontend
 
 ---
 
